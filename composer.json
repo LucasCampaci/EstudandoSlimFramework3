@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "slim/csrf": "^0.8.1",
+        "bdemirkir/slim-json-view": "^0.1.1"
+    }
+}
